@@ -1,4 +1,4 @@
-function XGP=GASSEM(A_)
+function XGP=GASSEM(A_)   %expended matrix
 A=A_;
 for i=1:9 %column
     for j=i+1:10 %row
